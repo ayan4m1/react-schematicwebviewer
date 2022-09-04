@@ -1,6 +1,6 @@
 {
   "name": "@bulletlogic/react-schematicwebviewer",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "React wrapper around the SchematicWebViewer canvas by EngineHub",
   "main": "dist/index.js",
   "scripts": {
